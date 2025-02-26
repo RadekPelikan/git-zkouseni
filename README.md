@@ -1,3 +1,3 @@
 Ahoj Svete!
-Stanislav Cinkl
 Radek Pelikan
+Stanislav Cinkl
