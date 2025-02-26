@@ -1,2 +1,2 @@
 Ahoj Svete!
-Filip Novak
+Radek Pelikan
